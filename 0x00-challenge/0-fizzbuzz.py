@@ -1,6 +1,6 @@
-# Problem fixed
 #!/usr/bin/python3
-""" FizzBuzz
+"""
+FizzBuzz
 """
 import sys
 
